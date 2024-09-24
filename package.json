@@ -67,7 +67,7 @@
 		"pidusage": "^3.0.0",
 		"pug": "^3.0.2",
 		"qrcode": "^1.4.4",
-		"redis": "^3.0.2",
+		"redis": "^4.7.0",
 		"semver": "^7.3.5",
 		"serve-favicon": "^2.5.0",
 		"simple-git": "^3.7.1",
