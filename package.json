@@ -49,7 +49,7 @@
 		"csurf": "^1.11.0",
 		"debug": "^4.3.1",
 		"decimal.js": "^10.2.1",
-		"dotenv": "^13.0.0",
+		"dotenv": "^16.4.5",
 		"electrum-client": "github:janoside/electrum-client",
 		"express": "^4.17.1",
 		"express-async-handler": "^1.1.4",
